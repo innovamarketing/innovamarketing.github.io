@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Innova TouchScreen",
-    "currentPage": "index.html",
+    "currentPage": "poultry.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1277,7 +1277,7 @@
             "paddingBottom": 0,
             "images": [
               {
-                "tags": "Labeling",
+                "tags": "Factory",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1287,7 +1287,7 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "Labeling",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1304,7 +1304,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mes-quality-control-2000x1125-63-800x450-15.png",
                 "image": "@PROJECT_PATH@/assets/images/mes-quality-control-2000x1125-63.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Quality Control",
@@ -1354,7 +1354,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/oee-explained-2000x1125-64-800x450-8.png",
                 "image": "@PROJECT_PATH@/assets/images/oee-explained-2000x1125-64.png",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,
