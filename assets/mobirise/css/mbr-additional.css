@@ -773,6 +773,9 @@ h6,
 #features3-24 P {
   color: #ffffff;
 }
+#extFooter1-2j .mbr-section-title {
+  font-size: 32px;
+}
 #ext_menu-v .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -841,6 +844,9 @@ h6,
 #header3-1c H3 {
   font-size: 22px;
 }
+#extFooter1-2j .mbr-section-title {
+  font-size: 32px;
+}
 #header3-1d .mbr-section-title,
 #header3-1d .mbr-section-subtitle {
   text-align: center;
@@ -908,6 +914,9 @@ h6,
 #ext_menu-c .link[aria-expanded="true"],
 #ext_menu-c .dropdown-item[aria-expanded="true"] {
   color: #efefef!important;
+}
+#extFooter1-2j .mbr-section-title {
+  font-size: 32px;
 }
 #ext_menu-1x .hide-buttons .nav-btn {
   display: none !important;
