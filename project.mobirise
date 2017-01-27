@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#efefef",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -21,11 +21,11 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 92,
-    "versionPublish": "3.10.4",
+    "uniqCompNum": 97,
+    "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "<script type=\"text/javascript\" src=\"http://marel.com/js/gatrack.js\"></script>\r\n<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n \r\n  ga('create', 'UA-5627010-1', 'auto');\r\n  ga('send', 'pageview');\r\n \r\n</script>"
   },
   "pages": {
     "index.html": {
@@ -35,7 +35,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -69,7 +70,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"poultry.html\" data-toolbar=\"-mbrBtnMove\">POULTRY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"meat.html\" data-toolbar=\"-mbrBtnMove\">MEAT</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/innova-office-2015-014-4-2000x1333-18.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -81,6 +82,81 @@
                 "showText": true,
                 "text": "We provide you with the toolset of the future office of food processing so you can make informed decisions to increase your profit.\n",
                 "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"poultry.html\" data-toolbar=\"-mbrBtnMove\">POULTRY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"meat.html\" data-toolbar=\"-mbrBtnMove\">MEAT</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/traceability-forefront-2000x1125-7.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.5",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Step into your future office<br><br>",
+                "showText": false,
+                "text": "We provide you with the toolset of the future office of food processing so you can make informed decisions to increase your profit.\n",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"poultry.html\" data-toolbar=\"-mbrBtnMove\">POULTRY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"meat.html\" data-toolbar=\"-mbrBtnMove\">MEAT</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/the-future-office-2000x1125-2.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.5",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Step into your future office<br><br>",
+                "showText": false,
+                "text": "We provide you with the toolset of the future office of food processing so you can make informed decisions to increase your profit.\n",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"poultry.html\" data-toolbar=\"-mbrBtnMove\">POULTRY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"meat.html\" data-toolbar=\"-mbrBtnMove\">MEAT</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/installed-1600-plants-2000x1125-47.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.5",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Step into your future office<br><br>",
+                "showText": false,
+                "text": "We provide you with the toolset of the future office of food processing so you can make informed decisions to increase your profit.\n",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"poultry.html\" data-toolbar=\"-mbrBtnMove\">POULTRY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"meat.html\" data-toolbar=\"-mbrBtnMove\">MEAT</a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/quality-control-2000x1125-14.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.5",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Step into your future office<br><br>",
+                "showText": false,
+                "text": "We provide you with the toolset of the future office of food processing so you can make informed decisions to increase your profit.\n",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"poultry.html\" data-toolbar=\"-mbrBtnMove\">POULTRY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"meat.html\" data-toolbar=\"-mbrBtnMove\">MEAT</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/interconnected-management-system-2000x1125-48.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.5",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Step into your future office<br><br>",
+                "showText": false,
+                "text": "We provide you with the toolset of the future office of food processing so you can make informed decisions to increase your profit.\n",
+                "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"poultry.html\" data-toolbar=\"-mbrBtnMove\">POULTRY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"meat.html\" data-toolbar=\"-mbrBtnMove\">MEAT</a> "
               }
             ],
@@ -235,9 +311,9 @@
           },
           "_anchor": "msg-box5-a",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "imageSize": "50",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -334,7 +410,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#efefef!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "ext.menu",
@@ -369,7 +445,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INNOVA</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Poultry<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meat.html\" aria-expanded=\"false\">Meat<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.marel.com/innova\" aria-expanded=\"false\" target=\"_blank\">Innova website<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"poultry.html\" aria-expanded=\"false\">Poultry<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meat.html\" aria-expanded=\"false\">Meat<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"innova-video.html\" aria-expanded=\"false\">Innova video<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.marel.com/innova\" aria-expanded=\"false\" target=\"_blank\">Innova website<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -440,7 +516,7 @@
           },
           "title2": "Logistics",
           "subtitle2": "",
-          "caption2": "Ensuring timely delivery is vital to customers, so it is crucial to have the right tools in place to manage all logistical challenges.",
+          "caption2": "Ensuring timely delivery is vital to food processors, so it is crucial to have the right tools in place to manage all logistical challenges.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -509,6 +585,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#394e70"
+            }
+          },
           "_anchor": "msg-box4-26",
           "_params": {
             "imageSize": 50,
@@ -529,7 +610,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": false,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -538,7 +619,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://vimeo.com/167390551",
+              "src": "https://www.youtube.com/watch?v=ld0ho9pbh_I&t=44s",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -559,6 +640,11 @@
             "Extension"
           ],
           "_name": "extFooter1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "24px"
+            }
+          },
           "_anchor": "extFooter1-2j",
           "_params": {
             "progress": 50,
@@ -591,19 +677,15 @@
               "size": 0
             }
           },
-          "title": "INNOVA Food Processing Software",
-          "list": "<ul><li><a href=\"http://www.marel.com/innova\" target=\"_blank\">Innova website</a></li><li><a href=\"http://www.marel.com\" target=\"_blank\">Marel.com</a></li></ul>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "24px"
-            }
-          }
+          "title": "Innova Food Processing Software",
+          "list": "<ul><li><a href=\"http://www.marel.com/innova\" target=\"_blank\">Innova website</a></li><li><a href=\"http://www.marel.com\" target=\"_blank\">Marel.com</a></li></ul>"
         }
       ]
     },
     "meat.html": {
       "settings": {
-        "title": "Meat"
+        "title": "Meat",
+        "order": 2
       },
       "components": [
         {
@@ -656,7 +738,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#efefef!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "ext.menu",
@@ -691,7 +773,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INNOVA</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Poultry<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meat.html\" aria-expanded=\"false\">Meat<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.marel.com/innova\" aria-expanded=\"false\" target=\"_blank\">Innova website<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"poultry.html\" aria-expanded=\"false\">Poultry<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meat.html\" aria-expanded=\"false\">Meat<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"innova-video.html\" aria-expanded=\"false\">Innova video<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.marel.com/innova\" aria-expanded=\"false\" target=\"_blank\">Innova website<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -699,7 +781,8 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "22px"
+              "font-size": "30px",
+              "color": "#394e70"
             }
           },
           "_tags": [
@@ -713,7 +796,7 @@
             "bgColor": "#ffffff",
             "showMeta": true
           },
-          "title": "Innova for Meat processing",
+          "title": "Innova for Meat\u001b processing",
           "meta": ""
         },
         {
@@ -746,6 +829,11 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#394e70"
+            }
+          },
           "_anchor": "features3-1n",
           "_params": {
             "paddingTop": 2,
@@ -783,7 +871,7 @@
           },
           "title1": "Truck Scale",
           "subtitle1": "Live animal delivery weighing",
-          "caption1": "Supplies are received into the system, checked, weighed and labeled. All traceability information is entered and supplies assigned to stock. <br><br>In the fresh products industry it is vital to control the raw material stock to reduce loss and to age products to the optimal stage.<br>",
+          "caption1": "Supplies are received into the system, checked, weighed and labeled. All traceability information is entered and supplies assigned to stock. &nbsp;<br>In the fresh products industry it is vital to control the raw material stock to reduce loss and to age products to the optimal stage.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -799,7 +887,7 @@
           },
           "title2": "Stables/Pen",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Innova controls the slaughter process from receiving of animals to classification.&nbsp;<br>The animals can beregistered when they enter the plant with&nbsp;information such as the herd number, the producer’s number, farm&nbsp;and ear tag.&nbsp;The system is fully integrated with other Innova modules. In this way Innova now offers processors a complete solution from receiving live animals to dispatching finished products.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -815,7 +903,7 @@
           },
           "title3": "<p>Slaughter</p>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Food processors can control and monitor key points in the slaughter process in real time while ensuring traceability and execution of quality control procedures.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -859,6 +947,11 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#394e70"
+            }
+          },
           "_anchor": "features3-1o",
           "_params": {
             "paddingTop": 2,
@@ -982,12 +1075,22 @@
             "paddingBottom": 0,
             "images": [
               {
-                "tags": "Yield",
+                "tags": "MES",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/m-pack-line-with-new-header-and-data-2000x1125-49-800x450-16.png",
-                "image": "@PROJECT_PATH@/assets/images/m-pack-line-with-new-header-and-data-2000x1125-49.png",
+                "thumb": "@PROJECT_PATH@/assets/images/general-monitoring-reporting-platform-2000x890-800x356.png",
+                "image": "@PROJECT_PATH@/assets/images/general-monitoring-reporting-platform-2000x890.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Grading",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/grading-real-time-monitoring-2000x1215-800x486.png",
+                "image": "@PROJECT_PATH@/assets/images/grading-real-time-monitoring-2000x1215.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -998,6 +1101,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/trim-management-system-with-new-header-and-data-2000x1125-79-800x450-81.png",
                 "image": "@PROJECT_PATH@/assets/images/trim-management-system-with-new-header-and-data-2000x1125-79.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Yield",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/m-pack-line-with-new-header-and-data-2000x1125-49-800x450-16.png",
+                "image": "@PROJECT_PATH@/assets/images/m-pack-line-with-new-header-and-data-2000x1125-49.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1029,7 +1142,37 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mes-end-of-line-2000x1125-43-800x450-24.png",
                 "image": "@PROJECT_PATH@/assets/images/mes-end-of-line-2000x1125-43.png",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Packing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/innova-packing-stations-2000x952-800x380.png",
+                "image": "@PROJECT_PATH@/assets/images/innova-packing-stations-2000x952.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "MES",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mes-labelling-2000x1125-800x450-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/mes-labelling-2000x1125-800x450.png",
+                "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "MES",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/order-control-2000x977-800x390.png",
+                "image": "@PROJECT_PATH@/assets/images/order-control-2000x977.png",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": 1,
@@ -1087,14 +1230,15 @@
               "size": 0
             }
           },
-          "title": "INNOVA Food Processing Software",
+          "title": "Innova Food Processing Software",
           "list": "<ul><li><a href=\"http://www.marel.com/innova\" target=\"_blank\">Innova website</a></li><li><a href=\"http://www.marel.com\" target=\"_blank\">Marel.com</a></li></ul>"
         }
       ]
     },
     "poultry.html": {
       "settings": {
-        "title": "Poultry"
+        "title": "Poultry",
+        "order": 3
       },
       "components": [
         {
@@ -1103,7 +1247,8 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "22px"
+              "font-size": "30px",
+              "color": "#394e70"
             }
           },
           "_tags": [
@@ -1117,7 +1262,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Innova for Poultry Processing",
+          "title": "Innova for Poultry Pro\u001bcessing",
           "meta": ""
         },
         {
@@ -1150,6 +1295,11 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#394e70"
+            }
+          },
           "_anchor": "features3-3",
           "_params": {
             "paddingTop": 2,
@@ -1267,6 +1417,11 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#394e70"
+            }
+          },
           "_anchor": "features3-4",
           "_params": {
             "paddingTop": 2,
@@ -1380,6 +1535,64 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#28324e"
+            }
+          },
+          "_anchor": "msg-box5-2o",
+          "_params": {
+            "imageSize": "70",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/active-all-major-processing-stages-1400x615.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Active in all major processing stages",
+          "text": "Innova is the link between the product and the consumer. ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -1429,7 +1642,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#efefef!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "ext.menu",
@@ -1464,7 +1677,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INNOVA</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Poultry<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meat.html\" aria-expanded=\"false\">Meat<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"poultry.html\" aria-expanded=\"false\">Poultry<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meat.html\" aria-expanded=\"false\">Meat<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"innova-video.html\" aria-expanded=\"false\">Innova video<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.marel.com/innova\" aria-expanded=\"false\" target=\"_blank\">Innova website<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -1481,13 +1694,23 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mes-iot-tradeshow-floor-2000x1125-38-800x450-71.png",
-                "image": "@PROJECT_PATH@/assets/images/mes-iot-tradeshow-floor-2000x1125-38.png",
+                "thumb": "@PROJECT_PATH@/assets/images/poultry-entire-process-2000x953-800x381.png",
+                "image": "@PROJECT_PATH@/assets/images/poultry-entire-process-2000x953.png",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Labeling",
+                "tags": "MES",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/monitoring-reporting-platform-2000x890-800x356.png",
+                "image": "@PROJECT_PATH@/assets/images/monitoring-reporting-platform-2000x890.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "MES",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1497,7 +1720,7 @@
                 "active": false
               },
               {
-                "tags": "End of Line",
+                "tags": "MES",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1534,7 +1757,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/oee-scheduler-2000x1125-23-800x450-63.png",
                 "image": "@PROJECT_PATH@/assets/images/oee-scheduler-2000x1125-23.png",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "OEE",
@@ -1557,7 +1780,7 @@
                 "active": false
               },
               {
-                "tags": "Deboning",
+                "tags": "Device",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1587,7 +1810,17 @@
                 "active": false
               },
               {
-                "tags": "Injection",
+                "tags": "Packing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/innova-packing-stations-2000x952-800x380.png",
+                "image": "@PROJECT_PATH@/assets/images/innova-packing-stations-2000x952.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Device",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1595,6 +1828,66 @@
                 "image": "@PROJECT_PATH@/assets/images/thigh-deboning-with-new-header-and-data-2000x1125-22.png",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "MES",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/integrated-solutions-2000x1091-800x436.png",
+                "image": "@PROJECT_PATH@/assets/images/integrated-solutions-2000x1091.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Yield",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poultry-innova-yield-tree-2000x1375-800x550.png",
+                "image": "@PROJECT_PATH@/assets/images/poultry-innova-yield-tree-2000x1375.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Yield",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/yield-scrape-station-2000x1097-800x438.png",
+                "image": "@PROJECT_PATH@/assets/images/yield-scrape-station-2000x1097.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "MES",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/innova-label-designer-2000x990-800x396.png",
+                "image": "@PROJECT_PATH@/assets/images/innova-label-designer-2000x990.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Device",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/grading-real-time-monitoring-2000x1215-800x486.png",
+                "image": "@PROJECT_PATH@/assets/images/grading-real-time-monitoring-2000x1215.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "MES",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/order-control-2000x977-800x390.png",
+                "image": "@PROJECT_PATH@/assets/images/order-control-2000x977.png",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": 1,
@@ -1652,7 +1945,7 @@
               "size": 0
             }
           },
-          "title": "INNOVA Food Processing Software",
+          "title": "Innova Food Processing Software",
           "list": "<ul><li><a href=\"http://www.marel.com/innova\" target=\"_blank\">Innova website</a></li><li><a href=\"http://www.marel.com\" target=\"_blank\">Marel.com</a></li></ul>"
         }
       ]
@@ -1660,7 +1953,8 @@
     "TESThtml": {
       "settings": {
         "title": "TEST",
-        "meta_descr": ""
+        "meta_descr": "",
+        "order": 5
       },
       "components": [
         {
@@ -1685,10 +1979,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "2.6rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "2.816rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1748,7 +2042,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INNOVA</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Poultry<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meat.html\" aria-expanded=\"false\">Meat<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"poultry.html\" aria-expanded=\"false\">Poultry<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meat.html\" aria-expanded=\"false\">Meat<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"innova-video.html\" aria-expanded=\"false\">Innova video<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.marel.com/innova\" aria-expanded=\"false\" target=\"_blank\">Innova website<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_customTemplate": true,
@@ -1763,6 +2057,197 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_anchor": "custom-html-1y"
+        }
+      ]
+    },
+    "innova-video.html": {
+      "settings": {
+        "title": "Innova video",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#28364e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#344766!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#394e70"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2k",
+          "_params": {
+            "bgColor": "#394e70",
+            "fontSize": "1.05",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/innovalogowhite-375x128-50.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">INNOVA</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"poultry.html\" aria-expanded=\"false\">Poultry<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"meat.html\" aria-expanded=\"false\">Meat<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"innova-video.html\" aria-expanded=\"false\">Innova video<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.marel.com/innova\" aria-expanded=\"false\" target=\"_blank\">Innova website<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "extFooter1-2l",
+          "_params": {
+            "progress": 50,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
+            "bgColor": "#394e70",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "showLogo": false,
+            "showTitle": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1.png"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Innova Food Processing Software",
+          "list": "<ul><li><a href=\"http://www.marel.com/innova\" target=\"_blank\">Innova website</a></li><li><a href=\"http://www.marel.com\" target=\"_blank\">Marel.com</a></li></ul>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader5",
+          "_anchor": "extHeader5-2n",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/the-future-office-2000x1125-75.png",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#fff",
+            "showTitle": false,
+            "showText": false,
+            "showVideo": true,
+            "showButtons": false,
+            "showArrow": false,
+            "VideoUrl": "https://www.youtube.com/watch?v=ld0ho9pbh_I"
+          },
+          "title": "INTRO WITH VIDEO POPUP",
+          "text": "Full-screen intro with background image and video popup. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/play-button.svg",
+              "link": "https://www.youtube.com/watch?v=ld0ho9pbh_I&t=44s",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "text2": "<label class=\"startPreset\" for=\"modal\">Watch Video</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     }
